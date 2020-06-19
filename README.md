@@ -5,5 +5,5 @@ branch == template
 
 ```
 Templates available:
-1. typescrip-excel-taskpane (clone the "typescrip-excel-taskpane" branch)
+1. typescript-excel-taskpane (clone the "typescript-excel-taskpane" branch)
 ```
